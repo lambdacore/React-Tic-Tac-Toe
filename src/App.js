@@ -1,3 +1,5 @@
+/* Jonathan Harrington - Completing the game*/
+
 import {useState} from 'react'
 
 function Square() {
